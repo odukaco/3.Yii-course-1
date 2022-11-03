@@ -10,6 +10,6 @@ class MyArticleController extends \yii\web\Controller
     //Hello-World -> HelloWorld -> actionHelloWorld
     public function actionHelloWorld()
     {
-        echo "Hello World";
+        echo "Hello World !";
     }
 }
