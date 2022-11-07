@@ -134,3 +134,4 @@ class SiteController extends Controller
         throw new ServerErrorHttpException();
     }
 }
+Yii::setAlias('@home','');
